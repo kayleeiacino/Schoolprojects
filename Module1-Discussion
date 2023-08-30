@@ -1,0 +1,7 @@
+Name = input('Type Your Name Here')
+
+Age = input('Type Your Age Here')
+
+Color = input('Type Your Favorite Color Here')
+
+print('Howdy!', Name, 'Thank you for joining us! How does it feel to be', Age, 'Awww look! Your favorite color', Color, 'matches perfectly with your personality.)
